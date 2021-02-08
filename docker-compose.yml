@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  dockertest:
+    image: b4n4d/dockertest:latest
+    restart: always
+    ports:
+      - 8080:80
