@@ -1,6 +1,6 @@
 # DockerTest
 
-[![KirillSSS](https://circleci.com/gh/KirillSSS/DockerTest.svg?style=svg)](https://app.circleci.com/pipelines/github/KirillSSS/DockerTest)
+[![KirillSSS](https://circleci.com/gh/KirillSSS/DockerTest.svg?style=shield)](https://app.circleci.com/pipelines/github/KirillSSS/DockerTest)
 
 Сontainer opens at port 8080.
 
