@@ -15,5 +15,5 @@ jobs:
       - run:
           TAG=0.1.$CIRCLE_BUILD_NUM
           docker login --username b4n4d --password $DOCKERHUB_PASSWORD
-          docker build --tag b4n4d/dockertest:$TAG .
+          docker build -tag b4n4d/dockertest:$TAG .
           docker push b4n4d/dockertest:$TAG
